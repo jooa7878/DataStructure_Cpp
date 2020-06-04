@@ -1,4 +1,3 @@
-// æ»ªÛ«ı, 2015405132
 #include <stack>
 #include <iostream>
 #include <cctype>
