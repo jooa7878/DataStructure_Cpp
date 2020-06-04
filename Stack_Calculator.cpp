@@ -197,7 +197,7 @@ void read_and_write(istream& ins) {
 		if (str == "EOI") return;
 
 		istringstream istr(str);
-
+		
 
 
 		if (!check(istr)) {
